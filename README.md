@@ -1,0 +1,2 @@
+# beginningDjango
+Hello World
